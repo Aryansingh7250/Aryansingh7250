@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="/mnt/data/83c63c02-5d2a-42cc-823c-7caf9af457f3.jpeg" alt="Banner" width="100%">
-</p>
-<p align="center">
-  <img src="Banner.jpg" alt="Banner" width="100%">
-</p>
-
 
 <h1 align="center">⚡ Chandrakant Singh ⚡</h1>
 <h3 align="center">AI Engineer | Full Stack | App Developer | Cyber Security Enthusiast</h3>
